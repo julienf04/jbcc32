@@ -16,7 +16,7 @@
 //  'jbcc32': Compiles all .cpp files found in the current path, and produces 'Program.exe' file in \obj folder
 //  'jbcc32 [filename]': Compiles all .cpp files found in current path, and produces '[filename].exe' file in \obj folder
 
-// Compilation example: I need to compile a .cpp file that is located in the path 'C:\users\SomeFolder\AnotherFolder\Here is the file
+// Compilation example: I need to compile a .cpp file that is located in the path 'C:\users\SomeFolder\AnotherFolder\Here is the file'
 //  -Step 1: I go to the path where .cpp file is, using this command:
 //      cd C:\users\SomeFolder\AnotherFolder\Here is the file
 //  -Step 2: I compile that .cpp file, using this command:

@@ -14,7 +14,7 @@ REQUERIMENTS TO USE THIS PROGRAM:
  3) The terminal needs to be in the path where the file you want to compile is
 
 ALL jbcc32 COMMANDS:
- 'jbcc32 help': Shows info about jbcc32"
+ 'jbcc32 help': Shows info about jbcc32
  'jbcc32': Compiles all .cpp files found in the current path, and produces 'Program.exe' file in \obj folder
  'jbcc32 [filename]': Compiles all .cpp files found in current path, and produces '[filename].exe' file in \obj folder
 

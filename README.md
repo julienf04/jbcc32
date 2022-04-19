@@ -23,7 +23,7 @@ ALL jbcc32 COMMANDS:
 
 
 Compilation example:
-I need to compile a .cpp file that is located in the path 'C:\users\SomeFolder\AnotherFolder\Here is the file
+I need to compile a .cpp file that is located in the path 'C:\users\SomeFolder\AnotherFolder\Here is the file'
  1) Step 1: I go to the path where .cpp file is, using this command:
  - cd C:\users\SomeFolder\AnotherFolder\Here is the file
  2) Step 2: I compile that .cpp file, using this command:

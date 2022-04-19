@@ -6,8 +6,8 @@ Last update: 19/4/2022 (dd/mm/aaaa)
 
 
 For any bug, doubt, comment or anything, you can contact me on:
- -Gmail: julian.fajardo000@gmail.com
- -Instagram: julienf_04;
+ - Gmail: julian.fajardo000@gmail.com
+ - Instagram: julienf_04;
 
 
 REQUERIMENTS TO USE THIS PROGRAM:

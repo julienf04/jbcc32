@@ -8,8 +8,9 @@
 
 // REQUERIMENTS TO USE THIS PROGRAM:
 //  1) You need to have installed Borland 5.5 compiler
-//  2) You need to add 'Borland\BCC55\bin' folder to 'Environment Variables -> Path'
-//  3) The terminal needs to be in the path where the file you want to compile is
+//  2) You need to add 'C:\Borland\BCC55\bin' folder (or wherever you have the compiler) to 'Environment Variables -> Path'
+//  3) You need to add 'C:\Program Files\JuliFajardo\jbcc32' folder (or wherever you have jbcc32) to 'Environment Variables -> Path'
+//  4) The terminal needs to be in the path where the file you want to compile is
 
 // ALL jbcc32 COMMANDS:
 //  'jbcc32 help': Shows info about jbcc32"
@@ -150,8 +151,9 @@ void HelpCommand()
 
     cout << "REQUERIMENTS TO USE THIS PROGRAM:" << endl;
     cout << "\t1) You need to have installed Borland 5.5 compiler" << endl;
-    cout << "\t2) You need to add 'Borland\\BCC55\\bin' folder to 'Environment Variables -> Path'" << endl;
-    cout << "\t3) The terminal needs to be in the path where the file you want to compile is" << endl << endl;
+    cout << "\t2) You need to add 'C:\\Borland\\BCC55\\bin' folder (or wherever you have the compiler) to 'Environment Variables -> Path'" << endl;
+    cout << "\t3) You need to add 'C:\\Program Files\\JuliFajardo\\jbcc32' folder (or wherever you have jbcc32) to 'Environment Variables -> Path'" << endl;
+    cout << "\t4) The terminal needs to be in the path where the file you want to compile is" << endl << endl;
 
     cout << "ALL jbcc32 COMMANDS:" << endl;
     cout << "\t-'jbcc32 help': Shows info about jbcc32" << endl;

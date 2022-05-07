@@ -1,13 +1,10 @@
 # jbcc32
 This is a program that makes it easy to compile C++ code using the Borland 5.5 compiler. This program must be executed on CMD
 
-Created by Julian Fajardo
-Last update: 19/4/2022 (dd/mm/aaaa)
-
-
-For any bug, doubt, comment or anything, you can contact me on:
- - Gmail: julian.fajardo000@gmail.com
- - Instagram: julienf_04;
+To install this program:
+- Download this jbcc32.zip: https://drive.google.com/file/d/19x3AHcFrwJAjTTPY4yMq0ssr-bLdr5xq/view?usp=sharing
+- Unzip it
+- Run setup.exe
 
 
 REQUERIMENTS TO USE THIS PROGRAM:
@@ -31,3 +28,12 @@ I need to compile a .cpp file that is located in the path 'C:\users\SomeFolder\A
  - jbcc32
 
  Nice! Now my Program.exe is located in C:\users\SomeFolder\AnotherFolder\Here is the file\obj\'
+
+
+Created by Julian Fajardo
+Last update: 19/4/2022 (dd/mm/aaaa)
+
+
+For any bug, doubt, comment or anything, you can contact me on:
+ - Gmail: julian.fajardo000@gmail.com
+ - Instagram: julienf_04

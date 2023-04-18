@@ -11,7 +11,7 @@ To install this program:
 
 # Requirements to use this program
 1. You need to have installed Borland 5.5 compiler from here: https://drive.google.com/file/d/1Sy8KaOyqaoxluGqPDbw5HulZoV6l_M4K/view.
-2. You need to add 'C:\Borland\BCC55\bin' folder (or wherever you have the compiler) to 'Environment Variables -> Path'.
+2. You need to add 'C:\Borland\BCC55\bin' folder (The downloaded folder BCC55 needs to be in the path 'C:\Borland\' mandatorily) to 'Environment Variables -> Path'.
 3. You need to add 'C:\Program Files\JuliFajardo\jbcc32' folder (or wherever you have jbcc32) to 'Environment Variables -> Path'.
 4. The terminal needs to be in the path where the file you want to compile is.
 
